@@ -80,7 +80,3 @@ A passionate **Senior Systems Engineer** with expertise in **Zscaler Administrat
 💼 [LinkedIn](https://www.linkedin.com/in/nagarjuna-thirumallasetty-70916116b/)  
 📩 **Email:** nagarjuna4870@gmail.com  
 
----
-
-## 🏅 TryHackMe Badges  
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=723040" style='border:none;'></iframe>
