@@ -1,7 +1,7 @@
 # 🚀 Nagarjuna Thirumalasetty
 
 📍 Hyderabad, India  
-📧 nagarjuna4870@gmail.com | 📞 +91 8919163392 
+📧 nagarjuna4870@gmail.com | 📞 +91 8919163392  
 🔗 [LinkedIn](https://www.linkedin.com/in/nagarjuna-thirumallasetty-70916116b/)  
 
 ---
@@ -23,11 +23,11 @@ A passionate **Senior Systems Engineer** with expertise in **Zscaler Administrat
 - ServiceNow  
 - Microsoft Defender  
 - Zscaler Solutions  
-- User Group Management
-- Azure Administrator 
+- User Group Management  
+- Azure Administrator  
 
 ### 🔹 Programming & Automation  
-- Python    
+- Python  
 
 ---
 
@@ -79,3 +79,8 @@ A passionate **Senior Systems Engineer** with expertise in **Zscaler Administrat
 ## 📫 Let's Connect  
 💼 [LinkedIn](https://www.linkedin.com/in/nagarjuna-thirumallasetty-70916116b/)  
 📩 **Email:** nagarjuna4870@gmail.com  
+
+---
+
+## 🏅 TryHackMe Badges  
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=723040" style='border:none;'></iframe>
